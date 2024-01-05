@@ -13,7 +13,7 @@ You can also use ```make clean``` to delete the ```.o``` files created  during t
 
 To use the binary ```my_hunter```, execute the following command : ```./mu_hunter```
 
-## SCREENSHOTs
+## SCREENSHOTS
 
 ![Screenshot from 2023-11-30 09-56-37](https://github.com/EpitechPromo2028/B-MUL-100-LIL-1-1-myhunter-helene.houplain/assets/146107867/e52e255c-7d46-490c-97d5-b42c9585bf58) 
 ![Screenshot from 2023-12-01 09-42-45](https://github.com/EpitechPromo2028/B-MUL-100-LIL-1-1-myhunter-helene.houplain/assets/146107867/a24ba302-e411-4575-8573-de62ede41dc7)
